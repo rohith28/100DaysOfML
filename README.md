@@ -4,9 +4,9 @@ This one hour can be studying or coding the machine learning realted topics.
 
 Challenge is starting from June 06 2018.
 
-# Day 0: June 05 2018: 
+### Day 0: June 05 2018: 
 
-# Setup:
+### Setup:
 I have setup all the thing needed to complete the challenge. 
 
 Tools and Technologies I am planning to use : 
