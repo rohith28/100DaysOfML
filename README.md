@@ -38,5 +38,10 @@ In conituation to the above classification:
 
 * Performance Measure 
 * Confusion Matrix
+* Precision and Recall
+* Precision/Recall tradeoff
+* ROC Curve
+* Multiclass Classification
+
 
 Classification on MNIST dataset can found [here](https://github.com/rohith28/Classification)
