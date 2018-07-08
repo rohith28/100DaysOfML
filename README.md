@@ -23,3 +23,20 @@ I have installed all the libraries and IDE needed for to take this challenge.
 ### Classification :
  Today I want to work on MNIST dataset. This dataset is a set of 70000 sall images of digits handwritten by high school and employees of the US Census Board. 
 
+Today I did :
+* Importing Dataset
+* Visualizing the Data
+* Splitting Training and Testing 
+* Training a Binary Classifier
+
+Classification on MNIST dataset can found here(https://www.linkedin.com/jobs/view/742562935/)
+
+### Day 2 : July 07 2018
+
+### Classification :
+In conituation to the above classification:
+
+* Performance Measure 
+* Confusion Matrix
+
+Classification on MNIST dataset can found here(https://www.linkedin.com/jobs/view/742562935/)
