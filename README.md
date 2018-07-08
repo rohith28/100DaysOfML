@@ -29,7 +29,7 @@ Today I did :
 * Splitting Training and Testing 
 * Training a Binary Classifier
 
-Classification on MNIST dataset can found [here](https://www.linkedin.com/jobs/view/742562935/)
+Classification on MNIST dataset can found [here](https://github.com/rohith28/Classification)
 
 ### Day 2 : July 07 2018
 
@@ -39,4 +39,4 @@ In conituation to the above classification:
 * Performance Measure 
 * Confusion Matrix
 
-Classification on MNIST dataset can found [here](https://www.linkedin.com/jobs/view/742562935/)
+Classification on MNIST dataset can found [here](https://github.com/rohith28/Classification)
