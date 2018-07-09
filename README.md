@@ -11,9 +11,9 @@ I have setup all the thing needed to complete the challenge.
 
 Tools and Technologies I am planning to use : 
 
-Anconda, Python, Juypter Notebook
-Libraries : Sci-Kit Learn, Tensorflow
-Data visualization: D3.js , Matplotlib
+* Anconda, Python, Juypter Notebook
+* Libraries : Sci-Kit Learn, Tensorflow
+* Data visualization: D3.js , Matplotlib
 
 I have installed all the libraries and IDE needed for to take this challenge.
 
