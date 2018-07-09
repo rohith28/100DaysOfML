@@ -41,7 +41,19 @@ In conituation to the above classification:
 * Precision and Recall
 * Precision/Recall tradeoff
 * ROC Curve
-* Multiclass Classification
 
 
 Classification on MNIST dataset can found [here](https://github.com/rohith28/Classification)
+
+### Day 3 : July 08 2018
+### Classification
+
+* In past two days I learned 
+  * how to train binary classifier
+  * choosing metrics for the task
+  * Evaluating the classifiers using Cross validation
+  * Selecting Precision/ Recall tradeoff
+  * Compare models using ROC curves and ROC AUC scores
+
+Today I want to work on :
+* Multiclass classification
