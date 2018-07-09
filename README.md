@@ -57,3 +57,8 @@ Classification on MNIST dataset can found [here](https://github.com/rohith28/Cla
 
 Today I want to work on :
 * Multiclass classification
+* Error Analysis
+* Multilabel Classification
+* Multioutput Classification
+
+Classification on MNIST dataset can found [here](https://github.com/rohith28/Classification)
