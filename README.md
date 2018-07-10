@@ -65,7 +65,16 @@ Classification on MNIST dataset can found [here](https://github.com/rohith28/Cla
 
 
 ### Day 4 : July 09 2018
-### Linear Regression
+### Linear Regression using Normal Equation
 
 
 Today I am going to study and implement Linear Regression.
+
+Linear Regression can be implemented by Normal Equation and Gradient Descent.
+
+I am imlpementing with Normal Equation today. You can find the code [here](https://github.com/rohith28/Training-Models/blob/master/Linear%20Regression.ipynb)
+
+
+### Day 5 : July 10 2018
+### Linear Regression using Gradient Descent
+
