@@ -67,3 +67,5 @@ Classification on MNIST dataset can found [here](https://github.com/rohith28/Cla
 ### Day 4 : July 09 2018
 ### Linear Regression
 
+
+Today I am going to study and implement Linear Regression.
