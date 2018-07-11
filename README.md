@@ -76,5 +76,6 @@ I am imlpementing with Normal Equation today. You can find the code [here](https
 
 
 ### Day 5 : July 10 2018
-### Linear Regression using Gradient Descent
+### Life Statifaction using Linear Regression
+
 
