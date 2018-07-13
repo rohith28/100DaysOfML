@@ -96,4 +96,7 @@ Today I am going to learn
 * Batch Gradient Descent 
 * Implementation of algorithm (Batch Gradient Descent) with out using ML library
 
+Code for impplementation of Linear algorithm using Gradient Descent can be found [here](https://github.com/rohith28/Training-Models/blob/master/Gradient%20Descent.ipynb)
+
+
 ### Day 7 : July 12 2018
