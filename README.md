@@ -79,3 +79,10 @@ I am imlpementing with Normal Equation today. You can find the code [here](https
 ### Life Statifaction using Linear Regression
 
 
+Code can be found [here](https://github.com/rohith28/Training-Models/blob/master/Life_Statisfaction/Life%20Satisfaction.ipynb)
+
+
+### Day 6 : July 11 2018
+
+
+### Day 7 : July 12 2018
