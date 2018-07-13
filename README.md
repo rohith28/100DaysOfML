@@ -78,6 +78,12 @@ I am imlpementing with Normal Equation today. You can find the code [here](https
 ### Day 5 : July 10 2018
 ### Life Statifaction using Linear Regression
 
+Today I am going to work on how Life satifaction and GDP per capita realted.
+
+Applying Linear Regrssion and KNN on two datasets.
+
+Better Life Index data from the OECD's website : https://goo.gl/0Eht9W
+GDP percapita from IMF's website : https://goo.gl/j1MSKe
 
 Code can be found [here](https://github.com/rohith28/Training-Models/blob/master/Life_Statisfaction/Life%20Satisfaction.ipynb)
 
