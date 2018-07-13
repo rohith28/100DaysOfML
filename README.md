@@ -89,6 +89,11 @@ Code can be found [here](https://github.com/rohith28/Training-Models/blob/master
 
 
 ### Day 6 : July 11 2018
+### Linear Regression using Gradient Descent
 
+Today I am going to learn
+* Different types and theoritical knowlegde of Gradient Descent
+* Batch Gradient Descent 
+* Implementation of algorithm (Batch Gradient Descent) with out using ML library
 
 ### Day 7 : July 12 2018
