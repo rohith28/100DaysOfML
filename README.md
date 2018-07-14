@@ -109,3 +109,17 @@ Topics to be covered  :
 * Comparison between Batch, Stochastic and Mini-bacth GD.
 
 Code for impplementation of Linear algorithm using Gradient Descent can be found [here](https://github.com/rohith28/Training-Models/blob/master/Gradient%20Descent.ipynb)
+
+
+### Day 8 : July 13 2018
+
+Topics :
+
+* Polynomial Regression
+* Learning Curves
+* Regularized Linear Models
+     * Ridge Regression
+     * Lasso Regression
+
+
+### Day 9 : July 14 2018
