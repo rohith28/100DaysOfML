@@ -100,3 +100,12 @@ Code for impplementation of Linear algorithm using Gradient Descent can be found
 
 
 ### Day 7 : July 12 2018
+
+Topics to be covered  :
+* Stochastic Gradient Descent
+* Implementation of algorithm (stochastic Gradient Descent) witout using Scikit-Learn
+* Mini-Batch Gradient Descent
+* Implementation of algorithm (Mini-batch GD) without using Scikit-learn
+* Comparison between Batch, Stochastic and Mini-bacth GD.
+
+Code for impplementation of Linear algorithm using Gradient Descent can be found [here](https://github.com/rohith28/Training-Models/blob/master/Gradient%20Descent.ipynb)
