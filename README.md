@@ -120,6 +120,7 @@ Topics :
 * Regularized Linear Models
      * Ridge Regression
      * Lasso Regression
-
+     
+Code can be found [here](https://github.com/rohith28/Training-Models/blob/master/Polynomial%20Regression.ipynb)
 
 ### Day 9 : July 14 2018
