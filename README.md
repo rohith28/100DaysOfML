@@ -124,3 +124,12 @@ Topics :
 Code can be found [here](https://github.com/rohith28/Training-Models/blob/master/Polynomial%20Regression.ipynb)
 
 ### Day 9 : July 14 2018
+
+I studied and implemented Linear Regression using both Normal equation and Gradient Descent. And also I studied importance of regularization term and Regulariszed Linear models. 
+
+Today I am going to work on following topics:
+
+* Logistic Regression
+    * Training and Cost Functions
+    * Decision Boundaries
+
