@@ -134,5 +134,9 @@ Today I am going to work on following topics:
     * Decision Boundaries
     * Softmax Regression
 
+### Day 10 : July 15 2018
 
+I am going to work on _Titanic : Machine Learning from Disaster_ which is a _Kaggle Competition._
+
+Dataset can be found [here](https://www.kaggle.com/c/titanic/data).
 
