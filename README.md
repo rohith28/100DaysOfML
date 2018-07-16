@@ -132,4 +132,7 @@ Today I am going to work on following topics:
 * Logistic Regression
     * Training and Cost Functions
     * Decision Boundaries
+    * Softmax Regression
+
+
 
