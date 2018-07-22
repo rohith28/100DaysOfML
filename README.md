@@ -145,5 +145,5 @@ Dataset can be found [here](https://www.kaggle.com/c/titanic/data).
 * Data Wrangling
 * Predicting using Logistic Regression
 
-Notebook for this Kaggle Competition can be found [here] (https://github.com/rohith28/Titanic_Kaggle)
+Notebook for this Kaggle Competition can be found [here](https://github.com/rohith28/Titanic_Kaggle)
 
