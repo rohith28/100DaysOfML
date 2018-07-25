@@ -147,3 +147,11 @@ Dataset can be found [here](https://www.kaggle.com/c/titanic/data).
 
 Notebook for this Kaggle Competition can be found [here](https://github.com/rohith28/Titanic_Kaggle)
 
+### Day 12 : July 17 2018
+
+Today taking a break from the machine learning algorithms and I want to work on Visualization using matplotlib and basemap.
+
+I want to visualize the U.S. Pollution dataset which you can find in [Kaggle](https://www.kaggle.com/sogun3/uspollution)
+
+I did some scatter plots and animations. You can find my code in this [notebook](https://github.com/rohith28/Visualization_US_Pollution_dataset/blob/master/visualization.ipynb)
+
