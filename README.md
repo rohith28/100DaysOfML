@@ -159,5 +159,5 @@ I did some scatter plots and animations. You can find my code in this [notebook]
 
 Today strated to learn about Support Vector Machines. I want to imlement Linear SVM Classification and learn the differences between Soft margin Classification and Hard margin Classification.
 
-My notes and classifier can be found [here]()
+My notes and classifier can be found [here](https://github.com/rohith28/Training-Models/blob/master/SupportVectorMachines.ipynb)
 
