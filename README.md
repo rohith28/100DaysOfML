@@ -155,3 +155,9 @@ I want to visualize the U.S. Pollution dataset which you can find in [Kaggle](ht
 
 I did some scatter plots and animations. You can find my code in this [notebook](https://github.com/rohith28/Visualization_US_Pollution_dataset/blob/master/visualization.ipynb)
 
+### Day 13 : July 18 2018
+
+Today strated to learn about Support Vector Machines. I want to imlement Linear SVM Classification and learn the differences between Soft margin Classification and Hard margin Classification.
+
+My notes and classifier can be found [here]()
+
