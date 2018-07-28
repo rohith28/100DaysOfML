@@ -161,3 +161,7 @@ Today strated to learn about Support Vector Machines. I want to imlement Linear 
 
 My notes and classifier can be found [here](https://github.com/rohith28/Training-Models/blob/master/SupportVectorMachines.ipynb)
 
+##   : July 27 2018
+
+Started working Kaggle competition : [New York Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
+Created machine learning model using XGBoost.
