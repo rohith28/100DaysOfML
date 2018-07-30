@@ -161,6 +161,10 @@ Today strated to learn about Support Vector Machines. I want to imlement Linear 
 
 My notes and classifier can be found [here](https://github.com/rohith28/Training-Models/blob/master/SupportVectorMachines.ipynb)
 
+### Day 14: July 19 2018
+
+I studied about Non Linear SVM Classificaiton.
+
 ##   : July 27 2018
 
 Started working Kaggle competition : [New York Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
