@@ -163,7 +163,7 @@ My notes and classifier can be found [here](https://github.com/rohith28/Training
 
 ### Day 14: July 19 2018
 
-I studied about Non Linear SVM Classificaiton.
+I studied about Non Linear SVM Classificaiton and SVM Regressor and how they work.
 
 ##   : July 27 2018
 
