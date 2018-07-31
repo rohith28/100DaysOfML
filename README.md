@@ -165,6 +165,11 @@ My notes and classifier can be found [here](https://github.com/rohith28/Training
 
 I studied about Non Linear SVM Classificaiton and SVM Regressor and how they work.
 
+### Day 15: July 20 2018
+
+Todays topic is Decision tree and its visulization.how to make predition using Decision Tree.
+
+
 ##   : July 27 2018
 
 Started working Kaggle competition : [New York Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
