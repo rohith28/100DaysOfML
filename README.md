@@ -174,3 +174,6 @@ Todays topic is Decision tree and its visulization.how to make predition using D
 
 Started working Kaggle competition : [New York Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
 Created machine learning model using XGBoost.
+
+
+## Vacation from August 2 to August 6. Resuming from August 7.
