@@ -177,3 +177,13 @@ Created machine learning model using XGBoost.
 
 
 ## Vacation from August 2 to August 6. Resuming from August 7.
+
+## August 8 and August 9 2018 :
+
+I started working on the Sentiment Analysis using Logistic Regression. 
+Downloaded dataset from the [Kaggle Twitter Sentiment Analysis](https://www.kaggle.com/c/twitter-sentiment-analysis2)
+Studied about Term Frequency and Inverse Term Frequency. Worked with Natural Language Processing library. 
+Project can be found [here](https://github.com/rohith28/Sentiment-Analysis)
+
+
+
