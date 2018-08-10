@@ -184,9 +184,13 @@ I started working on the Sentiment Analysis using Logistic Regression.
 
 Downloaded dataset from the [Kaggle Twitter Sentiment Analysis](https://www.kaggle.com/c/twitter-sentiment-analysis2)
 
-Studied about Term Frequency and Inverse Term Frequency. Worked with Natural Language Processing library. 
-
 Project can be found [here](https://github.com/rohith28/Sentiment-Analysis)
+ 
+Things Learned :
+
+* Studied about Term Frequency and Inverse Term Frequency. 
+* Worked with Natural Language Processing library. 
+* worked with Text Processing
 
 
 
