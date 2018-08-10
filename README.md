@@ -175,10 +175,9 @@ Todays topic is Decision tree and its visulization.how to make predition using D
 Started working Kaggle competition : [New York Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
 Created machine learning model using XGBoost.
 
+***Vacation from August 2 to August 6. Resuming from August 7.***
 
-## Vacation from August 2 to August 6. Resuming from August 7.
-
-## August 8 and August 9 2018 :
+## August 7 and August 8 2018 :
 
 I started working on the Sentiment Analysis using Logistic Regression. 
 
