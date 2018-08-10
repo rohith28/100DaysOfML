@@ -170,7 +170,7 @@ I studied about Non Linear SVM Classificaiton and SVM Regressor and how they wor
 Todays topic is Decision tree and its visulization.how to make predition using Decision Tree.
 
 
-##   : July 27 2018
+## Day 22: July 27 2018
 
 Started working Kaggle competition : [New York Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
 Created machine learning model using XGBoost.
@@ -181,8 +181,11 @@ Created machine learning model using XGBoost.
 ## August 8 and August 9 2018 :
 
 I started working on the Sentiment Analysis using Logistic Regression. 
+
 Downloaded dataset from the [Kaggle Twitter Sentiment Analysis](https://www.kaggle.com/c/twitter-sentiment-analysis2)
+
 Studied about Term Frequency and Inverse Term Frequency. Worked with Natural Language Processing library. 
+
 Project can be found [here](https://github.com/rohith28/Sentiment-Analysis)
 
 
