@@ -191,5 +191,14 @@ Things Learned :
 * Worked with Natural Language Processing library. 
 * worked with Text Processing
 
+## August 9 2018 :
+Started Deep Learning Course specialization in Coursera. COurse can be found [here](https://www.coursera.org/specializations/deep-learning)
+
+Studied topics :
+* What is Neural Network
+* Supervised Learning with Neural Network
+* Attempted Quiz for Neural networks 
+* Watched interview by Geoffrey Hinton
+
 
 
