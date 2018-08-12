@@ -201,4 +201,12 @@ Studied topics :
 * Watched interview by Geoffrey Hinton
 
 
+## August 11 2018 : 
 
+Logistic Regression as Neural Network : 
+* Binary Classification
+* Logistic Regression 
+* Logistic Regression Cost Function
+* Grradient Descent 
+* Derivatives and examples
+* Computation Graph 
