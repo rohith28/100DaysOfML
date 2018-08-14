@@ -210,3 +210,9 @@ Logistic Regression as Neural Network :
 * Grradient Descent 
 * Derivatives and examples
 * Computation Graph 
+
+## August 12 2018 :
+
+* Derivative of a computation graph
+* Logistic Regression Gradient
+* Python Vectorization techniques and its importance
