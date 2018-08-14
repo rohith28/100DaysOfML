@@ -216,3 +216,10 @@ Logistic Regression as Neural Network :
 * Derivative of a computation graph
 * Logistic Regression Gradient
 * Python Vectorization techniques and its importance
+* Broadcasting in Python
+* Python numpy vectors
+
+## August 13 2018:
+
+* Programming assignment on Numpy basics
+* Programming assignment on Logistic Regression
