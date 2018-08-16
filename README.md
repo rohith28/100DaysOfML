@@ -223,3 +223,15 @@ Logistic Regression as Neural Network :
 
 * Programming assignment on Numpy basics
 * Programming assignment on Logistic Regression
+
+## August 14 2018:
+
+* Programming assignment on Numpy basics
+* Programming assignment on Logistic Regression
+
+## August 15 2018 :
+
+* Neural Network basics
+* Neural Network Representation
+* Computing Neural network's output
+* Vectorization across multiple examples
