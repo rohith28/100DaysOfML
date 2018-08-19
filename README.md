@@ -236,5 +236,13 @@ Logistic Regression as Neural Network :
 * Computing Neural network's output
 * Vectorization across multiple examples
 
-## August 16 2018:
+## August 16,17,18,19,20 2018:
+Code for the Competition will be uploaded to github after competition ends.
+
 * started working on kaggle competition home defual risk 
+* Understanding the problem and data
+* Data Analysis
+* Data Visulization 
+* Data Wrangling
+* Gradient Descent 
+* XGBoost
