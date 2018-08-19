@@ -235,3 +235,6 @@ Logistic Regression as Neural Network :
 * Neural Network Representation
 * Computing Neural network's output
 * Vectorization across multiple examples
+
+## August 16 2018:
+* started working on kaggle competition home defual risk 
